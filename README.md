@@ -77,6 +77,7 @@ RegisterNumber: 25011320
 ```
 
 ## Output:
+<img width="442" height="295" alt="image" src="https://github.com/user-attachments/assets/7f45ea1c-8545-4620-9996-f603b5cc856f" />
 
 
 ## Result:
